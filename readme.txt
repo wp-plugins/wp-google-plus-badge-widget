@@ -1,6 +1,6 @@
 === Google+ Badge Widget ===
 Contributors: chandrakeshkumar, wp-chandra, chandgiri67
-Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=KZUB32FZNMM3U
+Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=2V34FUDP29MLC
 Tags: google, google plug, google+, widget, widgets, wordpress, google badge, google widget,badge
 Requires at least: 3.4
 Tested up to: 4.2.2
