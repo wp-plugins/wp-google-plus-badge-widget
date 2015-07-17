@@ -58,7 +58,9 @@ There are no FAQ just yet
 
 1. This screenshota for widget settings.
 2. After all see results like!
-
+3. Show look like!
+4. Show look like!
+5. Show look like!
 
 == Changelog ==
 
