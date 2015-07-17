@@ -2,7 +2,7 @@
 /*
  Plugin Name: Google+ Badge Widget
  Plugin URI: http://www.wpchandra.com
- Description: Our Google+ badge widget plugin will help you to display Google+ badge widget on your wordpress wesite, just add google+ badge widget to your sidebar and use it. 
+ Description: Our Google plus badge widget plugin will help you to display Google plus badge widget on your wordpress wesite, just add google plus badge widget to your sidebar and use it. 
  Version: 1.0
  Author: Chandrakesh Kumar
  Author URI: http://www.wpchandra.com/

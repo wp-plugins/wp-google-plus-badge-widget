@@ -8,11 +8,11 @@ Stable tag: 4.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Our Google+ badge widget plugin will help you to display Google+ badge widget on your wordpress wesite, just add google+ badge widget to your sidebar and use it. 
+Our Google plus badge widget plugin will help you to display Google plus badge widget on your wordpress wesite, just add google plus badge widget to your sidebar and use it.
 
 == Description ==
 
-Our Google+ badge widget plugin will help you to display Google+ badge widget on your wordpress wesite, just add google+ badge widget to your sidebar and use it. 
+Our Google plus badge widget plugin will help you to display Google plus badge widget on your wordpress wesite, just add google plus badge widget to your sidebar and use it.
 
 You can easy way to setting & install this plugin.
  
