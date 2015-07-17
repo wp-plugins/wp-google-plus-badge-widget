@@ -28,8 +28,8 @@ You can easy way to setting & install this plugin.
 ### About
 
 * [The plugin designed and developed by Chandrakesh Kumar.](https://profiles.wordpress.org/chandrakeshkumar/#content-plugins)
-* [Chandrakesh Kumar on Facebook.](https://www.facebook.com/chandrakesh.kumar.giri)
-* [Chandrakesh Kumar on Twitter.](https://twitter.com/chanderkeshgiri)
+* [Chandrakesh Kumar on Facebook.](https://www.facebook.com/pages/WPChandra-To-Start-for-Web-Development/325741047605388?fref=ts)
+* [Chandrakesh Kumar on Twitter.](https://twitter.com/webchandra)
 * [LinkedIn on Twitter.](http://in.linkedin.com/in/chanderkeshgiri)
 
 
