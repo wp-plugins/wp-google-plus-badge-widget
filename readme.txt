@@ -41,7 +41,6 @@ You can easy way to setting & install this plugin.
 == Installation ==
 
 This section describes how to install the plugin and get it working.
-e.g.
 
 1. Extract the zip file and just drop the contents in the wp-content/plugins/ directory of your WordPress installation and then activate the Plugin from Plugins page.
 2. Activate the plugin through the 'Plugins' menu in WordPress
