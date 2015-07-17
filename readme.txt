@@ -16,7 +16,7 @@ Our Google+ badge widget plugin will help you to display Google+ badge widget on
 
 You can easy way to setting & install this plugin.
  
-<strong>Features</strong
+<strong>Features</strong>
 
 * Change page type(e.g page,profile,community).
 * Change Color Scheme(e.g Dark,Light).
