@@ -12,7 +12,7 @@
 if (! class_exists( 'WPChandra_google_plus_badge' )){
  
 class WPChandra_google_plus_badge extends WP_Widget {
-	function __construct() {
+	function __construct() { 
 		parent::__construct(
 			'wp_google_plus_widget', // Base ID
 			__( 'Google+ Badge Widget', 'wp-google-plus-widget' ), // Name
