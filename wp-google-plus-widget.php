@@ -8,7 +8,7 @@
  Author URI: http://www.wpchandra.com/ 
  License: GPL3
  */
- 
+  
 if (! class_exists( 'WPChandra_google_plus_badge' )){
  
 class WPChandra_google_plus_badge extends WP_Widget {
