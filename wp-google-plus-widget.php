@@ -18,7 +18,7 @@ class WPChandra_google_plus_badge extends WP_Widget {
 			__( 'Google+ Badge Widget', 'wp-google-plus-widget' ), // Name
 			array( 'description' => __( 'Display google plus badge widget!', 'wp-google-plus-widget' ), ) // Args
 		);
-	}
+	} 
 	
 	public function form( $instance ) {
 
