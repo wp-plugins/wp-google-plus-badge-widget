@@ -11,7 +11,7 @@
   
 if (! class_exists( 'WPChandra_google_plus_badge' )){
  
-class WPChandra_google_plus_badge extends WP_Widget {
+class WPChandra_google_plus_badge extends WP_Widget { 
 	function __construct() { 
 		parent::__construct(
 			'wp_google_plus_widget', // Base ID
