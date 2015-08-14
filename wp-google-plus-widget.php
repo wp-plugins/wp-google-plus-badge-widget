@@ -6,7 +6,7 @@
  Version: 1.0 
  Author: Chandrakesh Kumar   
  Author URI: http://www.wpchandra.com/  
- License: GPL3 
+ License: GPL3  
  */
   
 if (! class_exists( 'WPChandra_google_plus_badge' )){
